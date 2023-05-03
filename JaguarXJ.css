@@ -1,0 +1,35 @@
+body
+{
+background-color:dodgerblue ;
+font-family: 'Lato', sans-serif;
+}
+
+.car
+{
+
+border: rgb(0, 0, 0) solid 1px;
+border-radius: 30px;
+margin: auto;
+margin-top: 20px;
+padding: 20px;
+width: 988px ;
+background-color: white;
+}
+
+img
+{
+
+width: 100%;
+border-radius: 30px;
+}
+
+a
+{
+text-decoration: none;
+border: dodgerblue solid ;
+border-radius: 30px;
+background-color: dodgerblue;
+color: white;
+width: 300px ;
+padding: 4px 20px 4px 20px ;
+}

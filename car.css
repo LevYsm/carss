@@ -1,0 +1,45 @@
+body
+{
+background-color:  dodgerblue;
+font-family: 'Lato', sans-serif;
+}
+
+.car
+{
+margin: auto;
+background-color: white;
+width: 988px;
+margin-top: 20px ;
+padding: 20px; ;
+border-radius: 30px ;
+border: rgb(0, 0, 0) solid 1px ;
+}
+
+.Jaguar
+{
+margin-top: 0px;    
+}
+
+a
+{
+width: 200px;
+text-decoration: none;
+border:dodgerblue solid;
+border-radius: 20px;
+padding: 4px 20px 4px 30px;
+width: 200px;
+background-color: dodgerblue;
+color: white;
+}
+
+.jaguar_tipe
+{
+color: aliceblue;
+}
+
+img
+{
+width:100%;
+border-radius: 30px;   
+}
+
